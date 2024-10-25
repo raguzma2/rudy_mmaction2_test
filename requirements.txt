@@ -1,0 +1,13 @@
+ffmpeg
+libsm6
+libxext6
+git
+ninja-build
+libglib2.0-0
+libxrender-dev
+libturbojpeg
+pkg-config
+libavdevice-dev
+libavfilter-dev
+libopus-dev
+libvpx-dev
